@@ -16,7 +16,7 @@
 package sealevel
 
 // #cgo LDFLAGS: -lsealevel
-// #include <sealevel.h>
+// #include <dist/sealevel.h>
 import "C"
 
 import (
